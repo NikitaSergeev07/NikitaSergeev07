@@ -1,12 +1,25 @@
-<h1 align="center">Hi, I'm Nikita 👋</h1>
-<p align="center">
-  <b>Machine Learning Engineer</b> · LLMs &amp; multi-agent systems · CS student
-</p>
+# Hi there 👋, You're on my GitHub
+
+My name is **Nikita** and I'm a **Machine Learning Engineer** from Russia — building LLMs from scratch, agentic AI systems, and shipping ML into production.
 
 <p align="center">
   <a href="https://t.me/aadmin70">
-    <img src="https://img.shields.io/badge/Telegram-@aadmin70-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram"/>
+    <img src="https://img.shields.io/badge/Telegram-@aadmin70-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NikitaSergeev07&theme=github_dark" width="800" alt="profile summary"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NikitaSergeev07&theme=github_dark" height="200" alt="most used languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NikitaSergeev07&theme=github_dark" height="200" alt="stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NikitaSergeev07&theme=github_dark" height="200" alt="most commit language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NikitaSergeev07&theme=github_dark&utcOffset=3" height="200" alt="productive time"/>
 </p>
 
 ---
@@ -44,10 +57,3 @@
 | **[TgContentCreator](https://github.com/NikitaSergeev07/TgContentCreator)** | Autonomous AI agent that runs its own Telegram channel on AI/Tech news | Python · aiogram · Claude |
 | **[veritas-deepfake](https://github.com/NikitaSergeev07/veritas-deepfake)** | Multimodal deepfake detection (image, audio, video) — IT-Planet Hackathon 2026 | Python · CV/Audio |
 | **[tours-fullstack-ai](https://github.com/NikitaSergeev07/tours-fullstack-ai)** | Tours catalog with semantic search | Laravel · Vike · pgvector · Claude |
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NikitaSergeev07&show_icons=true&hide_border=true&theme=transparent&count_private=true" height="160" alt="GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikitaSergeev07&layout=compact&hide_border=true&theme=transparent&langs_count=8" height="160" alt="Top languages"/>
-</p>
